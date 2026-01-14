@@ -136,3 +136,18 @@ code {
     @apply bg-background text-foreground;
   }
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.p{
+  padding: 20px;
+}
